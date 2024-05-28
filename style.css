@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  background-color: #6200ea;
+  background-color: #003366; /* Dark blue */
   color: white;
   padding: 20px 0;
   text-align: center;
@@ -21,7 +21,7 @@ h1 {
 }
 
 h2 {
-  color: #6200ea;
+  color: #003366; /* Dark blue */
   margin-top: 30px;
   margin-bottom: 10px;
   font-size: 1.8em;
@@ -38,8 +38,8 @@ ul {
 }
 
 ul li {
-  background-color: #fff;
-  border: 1px solid #ddd;
+  background-color: #e0e0e0; /* Light gray */
+  border: 1px solid #b0b0b0; /* Medium gray */
   margin-bottom: 10px;
   padding: 15px;
   border-radius: 8px;
@@ -52,7 +52,7 @@ ul li p {
 
 @media (min-width: 600px) {
   body {
-    margin: 20px;
+    margin: 40px; /* Increased margin */
   }
   
   header {
