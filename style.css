@@ -1,7 +1,15 @@
 /* styles.css */
 
+/* Define the custom font */
+@font-face {
+  font-family: 'Nasin Nanpa';
+  src: url('nasin-nanpa.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
-  font: 'nasin-nanpa.otf';
+  font-family: 'Nasin Nanpa', sans-serif; /* Apply the custom font */
   line-height: 1.6;
   background-color: #f5f5f5;
   margin: 0;
