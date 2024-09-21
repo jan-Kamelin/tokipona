@@ -1,15 +1,7 @@
 /* styles.css */
 
-/* Define the custom font */
-@font-face {
-  font-family: 'Nasin Nanpa';
-  src: url('nasin-nanpa.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-}
-
 body {
-  font-family: 'Nasin Nanpa'; /* Apply the custom font */
+  font-family: "Lucida Console", "Courier New", monospace;
   line-height: 1.6;
   background-color: #f5f5f5;
   margin: 0;
