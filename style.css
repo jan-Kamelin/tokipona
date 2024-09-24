@@ -1,12 +1,12 @@
 /* styles.css */
 @font-face {
-  font-family:"linja lipamanka";
-  src: url('linjalipamanka.otf')  format('opentype');
+  font-family:"nasin nanpa";
+  src: url('nasin-nanpa.otf')  format('opentype');
   font-weight: 400px;
 }
 
 body {
-  font-family: "linja lipamanka";
+  font-family: "nasin nanpa";
   line-height: 1.6;
   background-color: #f5f5f5;
   margin: 0;
